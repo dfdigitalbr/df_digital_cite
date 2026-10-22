@@ -1,7 +1,6 @@
 // 1. Troque pelo seu número com código do país e DDD, somente números.
 // Exemplo fictício do formato: 5521999999999
-const WHATSAPP_NUMERO = "55DDNUMEROAQUI";
-
+const WHATSAPP_NUMERO = "5521992891068";
 // Preenche o ano automaticamente no rodapé.
 document.querySelector("#ano").textContent = new Date().getFullYear();
 

@@ -1,0 +1,27 @@
+DF DIGITAL — PRIMEIRO SITE
+
+ARQUIVOS
+- index.html: conteúdo e estrutura da página.
+- style.css: cores, layout, fontes e adaptação para celular.
+- script.js: ano automático, menu móvel e configuração do WhatsApp.
+
+COMO VER O SITE
+1. Extraia o arquivo ZIP para uma pasta.
+2. Abra a pasta.
+3. Dê dois cliques em index.html para abrir no navegador.
+4. Para editar, abra os arquivos em um editor de código, como Visual Studio Code.
+
+ANTES DE DIVULGAR
+1. Abra script.js.
+2. Troque "55DDNUMEROAQUI" pelo seu número com código do país e DDD, usando apenas números.
+   Exemplo de formato fictício: 5521999999999.
+3. Personalize o texto "DF Digital" se decidir usar outro nome.
+4. Revise a seção Sobre para refletir sua experiência real.
+5. Os projetos no portfólio são demonstrações conceituais, não clientes reais.
+6. O site ainda não vende produtos nem recebe pagamentos. O catálogo/loja pode ser uma próxima etapa.
+7. Para publicar na internet, será necessário usar um serviço de hospedagem. Não é preciso pagar para testar localmente.
+
+PRIMEIROS CONCEITOS PARA APRENDER
+- HTML define a estrutura e o conteúdo.
+- CSS controla aparência, cores, espaçamento e adaptação a telas.
+- JavaScript adiciona comportamento, como menu móvel e link do WhatsApp.
